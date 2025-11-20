@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m Alok Pandit  
 - 💻 A Computer Science Engineering student and Full-Stack Developer with hands-on experience in React, React Native, Node.js, Spring Boot, Firebase, and MongoDB.  
-- 🚀 Co-founder of BitePay, a QR-based restaurant ordering & billing platform adopted by 12+ restaurants with 2,500+ orders processed.  
+- 🚀 Co-founder of BitePay, a QR-based restaurant ordering & billing platform adopted by 17+ restaurants with 6,500+ orders processed.  
 - 🌱 Currently expanding expertise in backend development, cloud deployment, and scalable app architecture.  
 - 📫 Reach me at: alokpandita3@gmail.com | [LinkedIn](https://www.linkedin.com/in/alokpandit03/) | [GitHub](https://github.com/ampandita03)
 
